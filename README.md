@@ -1,7 +1,4 @@
 # PfDA Project
-The README need only contain an explanation
-of what is contained in the repository and how to run the Jupyter notebook.
-
 This repository contains the jupyter notebook for this project. To run this simply select 'Cell' and 'Run All'. From here the project is broken down into 3 sections. 
     1. Selecting a data set
     2. Investigating the relationship of the variables wihtin the dataset to each other and to an outcome (a chosen index)
